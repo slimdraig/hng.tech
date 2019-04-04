@@ -15,16 +15,16 @@
                         <h6>Azeez Sunday`</h6>
                         <p>UI/UX DESIGNER</p>
                         <ul class="list">
-                           <li><a href="#" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/mvo_arisekola" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
                            <li><a href="https://github.com/slimdraig" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="#" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="https://medium.com/@azeezsunday.a" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae dicta, ipsam aliquam fugit voluptatum ad. Nihil sit ipsum consectetur nulla? Nesciunt illum mollitia repellat corrupti deleniti recusandae, repellendus eaque exercitationem?lore</p>
+                        <p>My name is Azeez Sunday Arisekola, a 3rd year student of cybersecurity at The Univerity of Technology, Akure. I have basic knowledge on most programming languages i've done in school including PHP, PYTHON, & JAVA. I'm a self tutored newbie on UI/UX design using figma and very trainable</p>
                         <br />
                         <h6>Skills</h6>
                         <p>FIGMA | PHP | Python</p>
